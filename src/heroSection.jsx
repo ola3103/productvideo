@@ -48,7 +48,7 @@ const HeroSection = () => {
                 <source src="/video.mp4" type="video/mp4" />
               </video>
             </div>
-            <div className="hero--side-2--box">
+            <div className="hero--side-2--box hero--side-2--box--remove">
               <video autoPlay muted>
                 <source src="/video.mp4" type="video/mp4" />
               </video>
@@ -65,7 +65,7 @@ const HeroSection = () => {
                 <source src="/video.mp4" type="video/mp4" />
               </video>
             </div>
-            <div className="hero--side-2--box">
+            <div className="hero--side-2--box hero--side-2--box--remove">
               <video autoPlay muted>
                 <source src="/video.mp4" type="video/mp4" />
               </video>
