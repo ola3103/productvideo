@@ -11,7 +11,7 @@ const Footer = () => {
           </p>
           <img src="top-post-badge.svg" className="footer--side--1--3" />
           <p className="footer--side--1--4">
-            Made with <span>&hearts;</span> by Ola RR
+            Made with <span>&hearts;</span> by Ola
           </p>
         </div>
         <ul className="footer--side--2 single--footer--box">
