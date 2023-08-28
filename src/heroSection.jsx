@@ -39,34 +39,52 @@ const HeroSection = () => {
           <div className="hero--side-2--1">
             <div className="hero--side-2--box">
               <video autoPlay muted>
-                <source src="/video.mp4" type="video/mp4" />
+                <source
+                  src="https://pub-47262dfbd9f344c3ac9d4010d96108db.r2.dev/demo_vid_01_optim%20-%2002.mp4deo.mp4"
+                  type="video/mp4"
+                />
               </video>
             </div>
             <div className="hero--side-2--box">
               <video autoPlay muted>
-                <source src="/video.mp4" type="video/mp4" />
+                <source
+                  src="https://pub-47262dfbd9f344c3ac9d4010d96108db.r2.dev/demo_vid_01_optim%20-%2002.mp4"
+                  type="video/mp4"
+                />
               </video>
             </div>
             <div className="hero--side-2--box hero--side-2--box--remove">
               <video autoPlay muted>
-                <source src="/video.mp4" type="video/mp4" />
+                <source
+                  src="https://pub-47262dfbd9f344c3ac9d4010d96108db.r2.dev/demo_vid_01_optim%20-%2002.mp4"
+                  type="video/mp4"
+                />
               </video>
             </div>
           </div>
           <div className="hero--side-2--2">
             <div className="hero--side-2--box">
               <video autoPlay muted>
-                <source src="/video.mp4" type="video/mp4" />
+                <source
+                  src="https://pub-47262dfbd9f344c3ac9d4010d96108db.r2.dev/demo_vid_01_optim%20-%2002.mp4"
+                  type="video/mp4"
+                />
               </video>
             </div>
             <div className="hero--side-2--box">
               <video autoPlay muted>
-                <source src="/video.mp4" type="video/mp4" />
+                <source
+                  src="https://pub-47262dfbd9f344c3ac9d4010d96108db.r2.dev/demo_vid_01_optim%20-%2002.mp4"
+                  type="video/mp4"
+                />
               </video>
             </div>
             <div className="hero--side-2--box hero--side-2--box--remove">
               <video autoPlay muted>
-                <source src="/video.mp4" type="video/mp4" />
+                <source
+                  src="https://pub-47262dfbd9f344c3ac9d4010d96108db.r2.dev/demo_vid_01_optim%20-%2002.mp4"
+                  type="video/mp4"
+                />
               </video>
             </div>
           </div>
