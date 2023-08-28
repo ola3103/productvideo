@@ -156,7 +156,7 @@ HERO SECTION
 }
 .top--post--4--img {
   width: 3.5rem;
-  height: fit-content;
+  height: min-content;
   border-radius: 0.25rem;
   margin-right: 1rem;
 }

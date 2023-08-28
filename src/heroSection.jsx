@@ -2,7 +2,6 @@ const HeroSection = () => {
   return (
     <section className="hero--section">
       <div className="container hero--box">
-        {/* <div className="gradient-blob"></div> */}
         <div className="hero--side-1">
           <img className="hero--side--badge" src="/top-post-badge.svg" />
           <p className="top-post--1">
